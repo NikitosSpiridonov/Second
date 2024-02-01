@@ -2,10 +2,10 @@ public class Main {
     public static void main(String[] args) {
 
 
-        int Price = 13676; // цена билета
-        int Miles = (int) (Price / 20); // количество начисленных миль
+        int price = 13676; // цена билета
+        int miles = (int) (price / 20); // количество начисленных миль
 
 
-        System.out.println("Начисленные мили: " + Miles);
+        System.out.println("Начисленные мили: " + miles);
     }
 }
